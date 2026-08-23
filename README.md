@@ -4,7 +4,7 @@
 
 - count()
 - index()
-- replace()
+- replace() 
 - split()
 - join()
 - in Keyword 
